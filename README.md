@@ -11,3 +11,5 @@ A series of data analysis project using different machine learning models in Pyt
 1.3 Support Vector Regression(SVR)
 
 1.4 Decision Tree Regression
+
+1.5 Random Forest Regression
