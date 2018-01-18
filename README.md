@@ -1,6 +1,6 @@
 # Machine Learning Models (In Progress)
 
-A series of data analysis project using different machine learning models in Python.
+A series of data analysis implementations using different machine learning models in Python.
 
 ### 1. Regression
 
