@@ -1,4 +1,4 @@
-# Machine Learning Project (In Progress)
+# Machine Learning Models (In Progress)
 
 A series of data analysis project using different machine learning models in Python.
 
