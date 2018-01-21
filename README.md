@@ -17,3 +17,5 @@ A series of data analysis implementations using different machine learning model
 ### 2. Classification
 
 2.1 Logistic Regression
+
+2.2 K-Nearest Neighbors
