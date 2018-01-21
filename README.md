@@ -13,3 +13,7 @@ A series of data analysis implementations using different machine learning model
 1.4 Decision Tree Regression
 
 1.5 Random Forest Regression
+
+### 2. Classification
+
+2.1 Logistic Regression
