@@ -23,3 +23,5 @@ A series of data analysis implementations using different machine learning model
 2.3 Support Vector Machine
 
 2.4 Kernel SVM
+
+2.5 Naive Bayes
