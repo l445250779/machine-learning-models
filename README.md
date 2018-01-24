@@ -25,3 +25,5 @@ A series of data analysis implementations using different machine learning model
 2.4 Kernel SVM
 
 2.5 Naive Bayes
+
+2.6 Decision Tree Classification
