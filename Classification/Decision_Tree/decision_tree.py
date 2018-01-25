@@ -27,7 +27,7 @@ X_test = sc.transform(X_test)
 
 # Fitting classifier to the Training set
 from sklearn.tree import DecisionTreeClassifier
-classifier = DecisionTreeClassifier(criterion = 'entropy', random_state = 0) # easy to overfit
+classifier = DecisionTreeClassifier(criterion = 'entropy', random_state = 0) # easy to overfit, usually we use entropy
 classifier.fit(X_train, y_train)
 
 # Predicting the Test set results
