@@ -29,3 +29,5 @@ A series of data analysis implementations using different machine learning model
 2.6 Decision Tree Classification
 
 2.7 Random Forest Classification
+
+2.8 Model Selections and Parameter Tuning
