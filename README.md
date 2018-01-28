@@ -27,3 +27,5 @@ A series of data analysis implementations using different machine learning model
 2.5 Naive Bayes
 
 2.6 Decision Tree Classification
+
+2.7 Random Forest Classification
