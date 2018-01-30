@@ -20,7 +20,7 @@ A series of data analysis implementations using different machine learning model
 
 2.2 K-Nearest Neighbors
 
-2.3 Support Vector Machine
+2.3 Support Vector Machine(SVM)
 
 2.4 Kernel SVM
 
