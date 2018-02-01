@@ -31,3 +31,7 @@ A series of data analysis implementations using different machine learning model
 2.7 Random Forest Classification
 
 2.8 Model Selections and Parameter Tuning
+
+### 3. Clustering
+
+3.1 K-Means Clustering
